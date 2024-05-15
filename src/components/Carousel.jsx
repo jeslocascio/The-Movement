@@ -14,7 +14,7 @@ function Carousel() {
         <img
             src="/Hollywood_Boulevard.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
-            alt="..."
+            alt="Photo of Hollywood Boulevard"
           />
           <img 
             src="/THE_MOVEMENT.png"
@@ -30,7 +30,7 @@ function Carousel() {
         <img
             src="/Ranch_With_Mountains.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
-            alt="..."
+            alt="Photo of a Ranch with Mountains in the Background"
           />
           <div className="absolute font-semibold drop-shadow-lg top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white text-xl  sm:text-2xl sm:font-normal md:font-light md:text-3xl lg:text-4xl">
             Experience the power of the holy spirit, in a story inspired by the life of Lonnie Frisbee.
@@ -41,7 +41,7 @@ function Carousel() {
         <img
             src="/California_Desert.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
-            alt="..."
+            alt="Photo of a California Desert"
           />
           <div className="absolute font-light top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-white border-gray-300 text-sm md:top-1/2 sm:text-xl md:text-3xl lg:text-4xl">
             "Will you not revive us again, that your people may rejoice in you? Show us your steadfast love, O Lord, and grant us your salvation."

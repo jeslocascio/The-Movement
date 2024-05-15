@@ -8,7 +8,7 @@ function About_Dina_Six() {
           <img
             className="object-cover w-3/4 rounded-t-lg h-auto md:h-auto sm:w-1/2 md:w-max md:rounded-none md:rounded-s-lg md:mr-5"
             src="/Six_Logo_With_Title.png"
-            alt=""
+            alt="D6 Productions Logo"
           />
         </div>
         {/* D6 Productions Text */}

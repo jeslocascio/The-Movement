@@ -6,7 +6,7 @@ function Book_Scenes() {
       <div className="mt-10 flex flex-col md:flex-row  bg-orange-50">
         <img
           src="/Holy_Light.jpg"
-          alt="Description"
+          alt="Image of sky with holy light shining down. There is a cross shape in the light rays."
           className="w-full md:w-1/2 border-4 border-yellow-400"
         />
         <div className=" text w-full md:w-1/2 border-4 border-yellow-400">
@@ -29,7 +29,7 @@ function Book_Scenes() {
         </div>
         <img
           src="/Melissa_Alley.jpg"
-          alt="Description"
+          alt="Photo of an orange tinted alleyway at night."
           className="w-full md:w-1/2 border-4 border-orange-600"
         />
       </div>
