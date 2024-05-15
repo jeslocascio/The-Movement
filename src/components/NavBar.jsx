@@ -7,7 +7,7 @@ function NavBar() {
         <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
           <div className="flex items-center mb-2 space-x-3 rtl:space-x-reverse sm:mx-0 mx-auto">
             <img
-              src="/src/assets/Six_Logo.png"
+              src="/public/Six_Logo.png"
               className="h-8"
               alt="D6 Productions Logo"
             />

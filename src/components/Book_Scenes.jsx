@@ -5,7 +5,7 @@ function Book_Scenes() {
     <>
       <div className="mt-10 flex flex-col md:flex-row  bg-orange-50">
         <img
-          src="/src/assets/Holy_Light.jpg"
+          src="/public/Holy_Light.jpg"
           alt="Description"
           className="w-full md:w-1/2 border-4 border-yellow-400"
         />
@@ -28,7 +28,7 @@ function Book_Scenes() {
           <p className="text-orange-600 italic mb-5 sm:mb-10 text-md sm:text-lg md:bg-0">Page 50-51</p>
         </div>
         <img
-          src="/src/assets/Melissa_Alley.jpg"
+          src="/public/Melissa_Alley.jpg"
           alt="Description"
           className="w-full md:w-1/2 border-4 border-orange-600"
         />
