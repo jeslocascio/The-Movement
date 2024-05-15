@@ -12,12 +12,12 @@ function Carousel() {
         {/* Item 1 */}
         <div className="hidden duration-1000 ease-in-out" data-carousel-item>
         <img
-            src="/public/Hollywood_Boulevard.jpg"
+            src="/Hollywood_Boulevard.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
             alt="..."
           />
           <img 
-            src="/public/THE_MOVEMENT.png"
+            src="/THE_MOVEMENT.png"
             className="absolute block mt-5 top-1/3 w-1/2 -translate-x-1/2 -translate-y-1/2 left-1/2 "
             alt="The Movement"
             />
@@ -28,7 +28,7 @@ function Carousel() {
         {/* Item 2 */}
         <div className="hidden duration-1000 ease-in-out" data-carousel-item>
         <img
-            src="/public/Ranch_With_Mountains.jpg"
+            src="/Ranch_With_Mountains.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
             alt="..."
           />
@@ -39,7 +39,7 @@ function Carousel() {
         {/* Item 3 */}
         <div className="hidden duration-1000 ease-in-out" data-carousel-item>
         <img
-            src="/public/California_Desert.jpg"
+            src="/California_Desert.jpg"
             className="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 h-80 md:h-auto"
             alt="..."
           />

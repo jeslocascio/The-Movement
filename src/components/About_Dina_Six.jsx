@@ -7,7 +7,7 @@ function About_Dina_Six() {
         <div className="flex flex-col items-center my-5 py-5 px-5 flex-1">
           <img
             className="object-cover w-3/4 rounded-t-lg h-auto md:h-auto sm:w-1/2 md:w-max md:rounded-none md:rounded-s-lg md:mr-5"
-            src="/public/Six_Logo_With_Title.png"
+            src="/Six_Logo_With_Title.png"
             alt=""
           />
         </div>
@@ -40,7 +40,7 @@ function About_Dina_Six() {
           <div className="flex flex-col items-center pb-10">
             <img
               className="w-40 h-50 mb-3 rounded-full shadow-lg border-green-800 border-8"
-              src="/public/Dina_Six.jpg"
+              src="/Dina_Six.jpg"
               alt="Photo of Dina Six"
             />
               <span className="w-40 border-t-2 border-solid border-green-800 inline-block mb-3"></span>
