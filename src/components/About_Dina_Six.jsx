@@ -13,12 +13,12 @@ function About_Dina_Six() {
         </div>
         {/* D6 Productions Text */}
         <div className="flex flex-col items-center my-5 py-5 px-5 flex-1">
-          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+          <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 ">
             D6 Productions
           </h5>
           <span className="w-60 border-t-2 border-solid border-green-800 inline-block mb-3 mx-auto"></span>
-          <p className="mb-3 font-normal text-gray-800 dark:text-gray-400 mx-auto">
-            D6 Production is a woman-lead production company that focuses on creativity above all else.
+          <p className="mb-3 font-normal text-gray-800  mx-auto">
+            D6 Production is a woman-led production company that focuses on creativity above all else.
             We have a proven track record of creating
             award-winning films, such as{" "}
             <a href="https://www.amazon.com/Faith-Through-Storms-Francine-Cruz/dp/B07QL34VPL" className="text-amber-800 italic">
@@ -53,7 +53,7 @@ function About_Dina_Six() {
             <div className="flex mt-4 md:mt-6">
               <a
                 href="https://linktr.ee/dinasixproductions"
-                className="py-2 px-4 ms-2 text-sm font-medium text-green-800 focus:outline-none rounded-lg border border-green-800 hover:bg-green-800 hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+                className="py-2 px-4 ms-2 text-sm font-medium text-green-800 focus:outline-none rounded-lg border border-green-800 hover:bg-green-800 hover:text-white focus:z-10 focus:ring-4 focus:ring-gray-100 "
               >
                 Check out her Link Tree
               </a>
