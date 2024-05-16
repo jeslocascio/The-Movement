@@ -23,7 +23,7 @@ function Book_Scenes() {
       <div className="mt-10 flex flex-col md:flex-row  bg-orange-50">
         <div className=" text w-full md:w-1/2 border-4 border-orange-600">
           <h2 className=" mt-5 sm:mt-10 lg:mt-20 text-md text-center sm:text-xl md:text-2xl md:mb-2 px-10 text-amber-900">
-           She begins to cry. Out of breathe and exhausted she cries harder. <br /><br /> Melissa screams, "I can't take it anymore." She puts her head on her knees. She's hysterical. Melissa looks up. "If there is a God? Please, please help me."
+           She begins to cry. Out of breath and exhausted she cries harder. <br /><br /> Melissa screams, "I can't take it anymore." She puts her head on her knees. She's hysterical. Melissa looks up. "If there is a God? Please, please help me."
           </h2>
           <p className="text-orange-600 italic mb-5 sm:mb-10 text-md sm:text-lg md:bg-0">Page 50-51</p>
         </div>
